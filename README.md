@@ -11,7 +11,7 @@ The snapshot of resultant program can be found in [mockup](mockup/) folder. Abou
 1. Download and unzip this project into **$HOME/workspace/SimpleTask** folder.
 2. Install [Google Plugin for Eclipse](https://developers.google.com/eclipse/docs/download) must be installed. *This project was updated to work with Eclipse 4.4 (Luna) and GWT 2.6.0.*
 3. Create an Eclipse project by selecting **File > New > Java Project**. 
-..1. Uncheck **Use default location** checkbox
-..2. Press the **Browse** button and select **$HOME/workspace/SimpleTask** folder.
-..3. Click **Finish**.
+  1. Uncheck **Use default location** checkbox
+  2. Press the **Browse** button and select **$HOME/workspace/SimpleTask** folder.
+  3. Click **Finish**.
 4. Right click on the project and select **Run As > Web Application**.

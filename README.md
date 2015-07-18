@@ -1,5 +1,5 @@
 # SimpleTask
-Simple [GWT](http://www.gwtproject.org/) project implemented for [CeLTech](http://celtech.de/) technical interview in October 2011.
+A simple [GWT](http://www.gwtproject.org/) project implemented for [CeLTech](http://celtech.de/) technical interview in October 2011.
 
 ## Description
 The task was to implement a [mockup screen](mockup/LASAD-Admin-Mockup.pdf):

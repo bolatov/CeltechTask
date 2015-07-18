@@ -1,8 +1,8 @@
 # SimpleTask
-Simple GWT project implemented for CeLTech technical interview in October 2011.
+Simple [GWT](http://www.gwtproject.org/) project implemented for [CeLTech](http://celtech.de/) technical interview in October 2011.
 
 ## Description
-The task was to implement a [mockup](mockup/LASAD-Admin-Mockup.pdf) screen:
+The task was to implement a [mockup screen](mockup/LASAD-Admin-Mockup.pdf):
 > The different panel contain either a list of items or a tree-like structure. When you mouse-over such an item the corresponding line will be highlighted red and some icons will be displayed (to perform some action with the selected item). The actual logic behind these icons is outside the scope of this task (i.e., can be ignored).
 
 The snapshot of resultant program can be found in [mockup](mockup/) folder. About 6 hours were spent for this task in two evenings (3 hours/evening).
